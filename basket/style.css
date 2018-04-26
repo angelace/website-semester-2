@@ -1,0 +1,96 @@
+		
+		body {margin:0; padding:0; font-family: "Roboto"; font-weight: lighter; color: #f7f7f7; word-spacing: 4px; letter-spacing: .5px;}
+		h3, h2, h4 {font-family: "Roboto"; font-weight: lighter; color: #f7f7f7;}
+		
+		a:link {color: white; text-decoration: none;}
+		a:visited {color: white; text-decoration: none;}
+		a:hover {color: grey; text-decoration: none;}
+		a:active {color:grey; text-decoration: none;}
+
+		dt, dd {margin-top: 27%;  font-family:"Marck Script"; font-size: 30px; font-weight: lighter;}
+		 li, ul  {margin-bottom: 30%; font-size: 40px; font-weight: lighter; margin}
+		
+	
+		#raleway {font-family: "Raleway"; font-weight: lighter;}
+		
+		
+		#centerBanner {text-align: center; color: white;}
+		
+		#logo{top: 45%; left: 2%; position: absolute;}
+		
+		#facebook {top: 30%; left: 80%; position: absolute;}
+		#twitter{top: 30%; left: 85%; position: absolute;}
+		#instagram {top: 30%; left: 90%; position: absolute;}
+		
+		#tab_home {top: 70%; left: 45%; position: absolute;}
+		#tab_tops {top: 70%; left: 55%; position: absolute;}		
+		#tab_bottoms {top: 70%; left: 65%; position: absolute;}		
+		#tab_shoes {top: 70%; left: 75%; position: absolute;}
+		#tab_basket{top: 70%; left: 85%; position: absolute;}		
+
+
+		
+		
+		#split {height: .75%; width: 100%; background-color: black; top: 107%; position: absolute;}
+		
+		#slogan {top: 15%; left: 31%; word-spacing: 50px; letter-spacing: 5px; font-family: "Raleway"; font-weight: 100px; position: absolute;}
+		#slideShow{top: 23%; left: 18%; position: absolute;}
+		#homePara {top: 56%; left: 3%; width: 42%; position: absolute;}
+		
+		#menuParagraph {top: 0%; left: 49%; position: absolute; text-align: center;}
+		#menuBackground {top: 10%; left: 45%;  position: absolute;}
+		#menuTitle {top: 8.5%; left: 62.5%; position: absolute;}
+		#menuList {top: 14%; left: 47%; position: absolute}
+		
+		#galleryParagraph {top: 16%; left: 40%; position: absolute;}
+		
+		#contactParagraph {top: 14%; left: 2%; position: absolute;}
+		#contactPhone {top: 20%; left: 2%; position: absolute;}
+		#contactPhoneNum {top: 20%; left: 7%; position: absolute;}
+		#contactEmail {top: 26%; left: 2%; position: absolute;}
+		#contactEmailAdd {top: 26%; left: 7%; position: absolute;}
+		#mapParagraph {top: 35%; left: 2%; position: absolute;}
+		#contactMap {top: 40%; left: 2%; position: absolute;}
+		
+		#phoneImg {top: 32%; position: absolute;}
+		#emailImg {top: 55%; position: absolute;}
+		#phoneNum {top: 23%; left: 2%; position: absolute;}
+		#emailAdd {top: 44%; left: 2%; position: absolute;}
+		
+		#video {top: -3%; left: 100%; position: absolute;}
+		
+		#nextParagraph {top: 13%; left: 39%; position: absolute;}
+		
+		#nextBanner {top: 20%; height: 4%; width: 100%; left: 0%; color: #0c0c0c; background-color: black; text-align: center; position: absolute;}
+		
+		#nextPlaces {top: 27%; left: 5%; position: absolute;}
+		
+		#facebookFooter {top: 75%; left: -0.5%; position: absolute;}
+		#twitterFooter {top: 75%; left: 5%; position: absolute;}
+		#instagramFooter {top: 75%; left: 10.5%; position: absolute;}
+		
+		.background {height: 1550px; width: 1920px; background-color: black; position: absolute;}
+		
+		.wrapper {height: 95%; width: 80%; background-color: #0c0c0c; left: 8%; top: 5%; position: absolute;}
+		
+		.banner {height: 5%; left: 40%; width: 50%; background-color: black; position: absolute; color: #c6c6c6; word-spacing: 20px;}
+		
+		.menu {height: 10%; width: 100%; position: absolute;}
+		
+		.textbox {height: 70%; width: 65%; background-color: #white; top: 13%; float: left; position: absolute;}
+		
+		.imageBox{height: 60%; width: 80%; background-color: white; top: 25%; left: 18%; position: absolute;}
+		
+		.row { display: flex; flex-wrap: wrap; padding: 0 4px;}
+		
+		.column {flex: 50%; padding: 0 4px; left: 50%;}
+		
+		.contactBox {top: 22%; width: 80%; height: 80%;}
+		
+		.inspiration {left: -18%; top: 18%; width: 80%; height: 80%; position: absolute; text-align: center;}
+		
+		.nextTextBox {top: 0%; height: 80%; width: 100%; left: 0%;}
+
+		.footer {top: 85%; height: 15%; width: 80%; background-color: #0c0c0c; left: 2%; position: absolute;}
+		
+		
